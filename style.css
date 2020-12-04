@@ -1,0 +1,62 @@
+
+.gallery img{
+        width: 50%;
+ }
+
+.homegallery img{
+    width:100%;
+}
+
+#menu a{
+      text-decoration: none;
+      color: black;
+      font-size: 14px;
+      font-family: Helvetica, sans-serif;
+      font-weight: 800;
+   
+      background-image : url(Images/menu-button.gif);
+      background-repeat: no-repeat;
+      display: block;
+      width: 128px;
+      height: 25px;
+      padding-left: 18px;
+      padding-top: 2px;
+      float: left;
+      
+}
+
+#menu a:hover{
+      background-image: url(Images/menu-button-hover.gif);
+      color           : #ffffff;
+}
+
+h4{
+     font-size: 20px;
+     color: navy;
+    
+}
+
+table
+{
+    position:absolute;
+    top:5;
+    right:5; 
+    font-family : Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width   : 1px;
+    border-style   : solid;
+    border-color   : black;
+}
+
+button {
+    font-size:20px;
+    color:black;
+    background-color: lightgreen
+}
+
+#Intro{
+    font-family : cursive;
+    font-size: 18px;
+    
+    
+}
